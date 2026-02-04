@@ -18,7 +18,8 @@ nav {
     height: 10vh;
 }
 
-ul, li {
+ul,
+li {
     display: flex;
     list-style: none;
     text-decoration: none;
